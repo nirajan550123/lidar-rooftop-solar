@@ -1,0 +1,23 @@
+name: rooftop-solar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pdal
+  - python-pdal
+  - gdal
+  - rasterio
+  - geopandas
+  - shapely
+  - numpy
+  - scipy
+  - pandas
+  - rioxarray
+  - xarray
+  - matplotlib
+  - osmnx
+  - requests
+  - jupyterlab
+  - pip
+  - pip:
+      - laspy[laszip]

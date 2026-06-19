@@ -1,0 +1,45 @@
+{
+  "austin": {
+    "city": "Austin",
+    "analyzed": 1728,
+    "fetched": 1795,
+    "survival_pct": 96.3,
+    "total_kwh": 19187570.0,
+    "mean_kwh": 11103.917824074075,
+    "median_kwh": 7403.5,
+    "std_kwh": 31186.318393088226,
+    "min_kwh": 0.0,
+    "max_kwh": 962525.0,
+    "q25_kwh": 3103.75,
+    "q75_kwh": 12778.5,
+    "mean_footprint_m2": 222.59328703703702,
+    "median_footprint_m2": 183.4,
+    "mean_slope": 40.280208333333334,
+    "mean_aspect_score": 0.5061620370370371,
+    "mean_frac_usable": 0.4694913194444445
+  },
+  "kathmandu": {
+    "city": "Kathmandu",
+    "analyzed": 947,
+    "fetched": 7290,
+    "survival_pct": 13.0,
+    "total_kwh": 36256333.0,
+    "mean_kwh": 38285.46251319958,
+    "median_kwh": 14355.0,
+    "std_kwh": 76636.47801098056,
+    "min_kwh": 122.0,
+    "max_kwh": 869361.0,
+    "q25_kwh": 6838.5,
+    "q75_kwh": 33781.0,
+    "mean_footprint_m2": 362.81330517423436,
+    "median_footprint_m2": 140.4,
+    "mean_slope": 3.6738120380147836,
+    "mean_aspect_score": 0.5565142555438226,
+    "mean_frac_usable": 1.0
+  },
+  "tests": {
+    "mannwhitney_p": 2.8567013302085565e-68,
+    "ks_D": 0.3067752943016935,
+    "ks_p": 2.2939264011509346e-51
+  }
+}
